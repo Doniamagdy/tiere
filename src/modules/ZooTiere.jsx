@@ -4,7 +4,6 @@ import { useState, useRef, useEffect } from "react";
    وبدّلي <Pic animal={a} /> بالصورة (الدالة Pic تحت) */
 const ANIMALS = [
   { word: "Elefant", article: "der", emoji: "🐘" },
-  { word: "Jaguar", article: "der", emoji: "🐆" },
   { word: "Löwe", article: "der", emoji: "🦁" },
   { word: "Kamel", article: "das", emoji: "🐪" },
   { word: "Känguru", article: "das", emoji: "🦘" },
